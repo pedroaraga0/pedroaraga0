@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/2a/20/47/2a20476ec0356bdbb03fa09ed93c5bfe.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/19/6a/d9/196ad9d3122098b297d7b99ce9ff209f.gif"  />
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/31dspl2m5z45q3gkrtazeqn5p3jy">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dspl2m5z45q3gkrtazeqn5p3jy&count=5" alt="Spotify recently played"  />
   </a>
