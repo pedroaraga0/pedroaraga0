@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pedro and I'm a fullstack dev, from Brazil 📜</h2>
+<h2 align="left">Olá! Seja bem vindo ao meu perfil! 📜</h2>
 
 ###
 
@@ -9,6 +9,10 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
+
+###
+
+<h3 align="left">📫 Contatos  :</h3>
 
 ###
 
@@ -27,9 +31,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedroaraga0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroaraga0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedroaraga0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroaraga0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-###](https://v1.pinimg.com/videos/mc/720p/5c/4c/05/5c4c050c9ce3307044c3b5ac2adfa414.mp4)
+###
